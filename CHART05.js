@@ -6,7 +6,7 @@ $(function () {
             type: 'bar'
         },
         title: {
-            text: 'INSTALLATION REPORT 2017777'
+            text: 'INSTALLATION REPORT 2017'
         },
         xAxis: {
             type: 'category'
@@ -33,7 +33,7 @@ series:
     [ 
 {
      name: "APRIL",
-     y: 82133,
+     y: 8213,
      drilldown: "IDmnth4"
      },
 {
