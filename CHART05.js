@@ -6,7 +6,7 @@ $(function () {
             type: 'bar'
         },
         title: {
-            text: 'INSTALLATION REPORT 2017'
+            text: 'INSTALLATION REPORT 2017777'
         },
         xAxis: {
             type: 'category'
